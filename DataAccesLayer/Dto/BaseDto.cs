@@ -1,4 +1,4 @@
-namespace sensade_project.Dto;
+namespace DataAccessLayer;
 
 public class BaseDto
 {
